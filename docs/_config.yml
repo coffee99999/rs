@@ -3,7 +3,7 @@ lang: ko-KR
 timezone: Asia/Seoul
 
 title: COFFEE99999의 코스피 상대 강도
-repository: https://coffee99999.github.io/rs/
+repository: coffee99999/turtle
 
 plugins:
   - jekyll-include-cache
