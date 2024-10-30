@@ -2,8 +2,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 lang: ko-KR
 timezone: Asia/Seoul
 
-title: 달리나음의 코스피 상대 강도
-repository: dalinaum/turtle
+title: COFFEE99999의 코스피 상대 강도
+repository: https://coffee99999.github.io/rs/
 
 plugins:
   - jekyll-include-cache
@@ -32,8 +32,8 @@ defaults:
       layout: single
       author_profile: true
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-Y37MGBP94B"
-    anonymize_ip: false # default
+#analytics:
+  #provider: "google-gtag"
+  #google:
+   # tracking_id: "G-Y37MGBP94B"
+   # anonymize_ip: false # default
